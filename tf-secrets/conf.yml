@@ -1,0 +1,7 @@
+location: 'Central US'
+rg_keyvault: "rg_kv"
+kv_name: "tf-kv-cruz3r"
+commontags:
+  owner: "mcruz"
+  environment: "dev"
+  project: "learning"
